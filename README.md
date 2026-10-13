@@ -1,2 +1,5 @@
 # 3310_proj1
-Fundamental Algorithms
+Fundamental Algorithms:
+Sorting Algorithms 
+Tower of Hanoi    
+Matrix Multiplication
